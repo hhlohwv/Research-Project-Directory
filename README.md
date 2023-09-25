@@ -27,4 +27,4 @@ The proposed Workflow for this setup is as follows:
 - Store the outputs of the projects (publications, presentations) from the "04 analysis" folder in the "05 output" folder
 
 ## Credits
-This setup is inspired by the folder structure and workflow described in [How To Keep Your Research Projects Organized Part 1](https://towardsdatascience.com/how-to-keep-your-research-projects-organized-part-1-folder-structure-10bd56034d3a)
+This setup is inspired by the folder structure and workflow described in [How To Keep Your Research Projects Organized Part 1](https://towardsdatascience.com/how-to-keep-your-research-projects-organized-part-1-folder-structure-10bd56034d3a).

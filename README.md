@@ -4,7 +4,7 @@
 - [Purpose](#purpose)
 - [Folder Structure](#folder-structure)
 - [Setting Up Project Directory and Creation Scripts](#setting-up-project-directory-and-creation-scripts)
-- [Suggested Usage](#suggested-usage)
+- [Suggested Workflow](#suggested-workflow)
 - [Credits](#credits)
 
 ## Purpose

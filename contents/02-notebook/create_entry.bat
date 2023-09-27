@@ -1,6 +1,5 @@
 :: Create entry in the notebook folder
 :: Make a new folder and copy the markdown folder in the config folder to the new folder
-
 @echo off
 
 :: Create folder based on today's date
@@ -19,15 +18,11 @@ if not exist "%datestamp%" (
     echo.
 )
 
-:: Navigate into the created folder
-cd %datestamp%
-
 :: Set the directory to copy the template file to
-set entryDIR=.
+set entryDIR=.\%datestamp%
 for %%f in ("%entryDIR%") do set entryDIR=%%~ff
 
 :: Relatively navigate to location of template folder
-cd ..
 cd ..
 cd 00-config
 

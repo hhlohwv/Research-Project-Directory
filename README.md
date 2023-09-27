@@ -12,6 +12,7 @@ This repository is meant as a default file structure to apply to storing the dat
 Contains folders for storing and organizing relevant information and data, and scripts for generating templated plain text files for recording experiments and other notes.
 
 ## Folder Structure
+#TODO: update names of files
 - 00 config, template files and other config files.
 - 01 context, background information to the project (e.g. grant proposal info, project objectives, preliminary data).
 - 02 notebook, documents and media for recording experimental details.
@@ -26,6 +27,7 @@ Setting up a project with this structure can be simply done by copying all the f
 After that the files labeled "delete me" can be removed.
 
 ## Suggested Workflow
+#TODO: update workflow
 - Add the project information to the "Project Description.md" file.
 - Update the header information in the template files in 00-config folder
 - Store background information and context for the project in the 01-context folder.
